@@ -1,5 +1,5 @@
 # Entropy_Threshold
-From ImageJ plug-in filter changed slightly with use with OpenCV
+From ImageJ plug-in filter changed slightly for use with OpenCV.
 
 For the Lena image the entrpy threshold looked slightly better than Otsu threshold.
 
